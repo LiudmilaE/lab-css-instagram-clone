@@ -52,7 +52,7 @@ body {
   padding: 5%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/home/liuda/code/labs/lab-css-instagram-clone/starter-code/images/frame.png");
+  background-image: url("../images/frame.png");
 }
 
 .info-frame h2 {
